@@ -1,1 +1,2 @@
-Baru Belaja Bang Hehe :3
+Hello Wordl;
+Bede
