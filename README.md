@@ -1,7 +1,7 @@
 <h1 align="center" style="color:#58a6ff;">Hi 👋! My name is Daya and I'm a Tech Enthusiastic, from Makassar</h1>
 
 <div align="center">
-  <img height="400" src="[https://i.pinimg.com/originals/72/05/b2/7205b2ce7d169105ff176139ffe01e1f.gif](https://www.google.com/url?sa=i&url=https%3A%2F%2Fsteamcommunity.com%2Fsharedfiles%2Ffiledetails%2F%3Fl%3Dczech%26id%3D774166028&psig=AOvVaw0x1nPVGx9zuQOmKey6nWSy&ust=1745702033036000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCKjxnvSM9IwDFQAAAAAdAAAAABAJ)"  />
+  <img height="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgifer.com%2Fpt%2FJI6T&psig=AOvVaw0x1nPVGx9zuQOmKey6nWSy&ust=1745702033036000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCKjxnvSM9IwDFQAAAAAdAAAAABAg"  />
 </div>
 
   # 💫 About Me:
