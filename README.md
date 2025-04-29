@@ -1,7 +1,7 @@
 <h1 align="center" style="color:#58a6ff;">Hi 👋! My name is Daya and I'm a Tech Enthusiastic, from Makassar</h1>
 
 <div align="center">
-  <img height="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgifer.com%2Fpt%2FJI6T&psig=AOvVaw0x1nPVGx9zuQOmKey6nWSy&ust=1745702033036000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCKjxnvSM9IwDFQAAAAAdAAAAABAg"  />
+  <img height="400" src="https://media1.giphy.com/media/2G3akPMOfyOSMnHXxs/source.gif"  />
 </div>
 
   # 💫 About Me:
