@@ -73,8 +73,3 @@ From crafting sleek **front-end designs** ✨ to building **robust back-end syst
 - 🔥 I love solving coding puzzles and challenges.
 - 🎥 My favorite anime is *Sword Art Online*.  
 - 🌌 I believe in lifelong learning and always embrace new opportunities to grow.
-
-<div align="center">
-    <img src="https://visitcount.itsvg.in/api?id=dayattt111&icon=0&color=6" alt="Profile View Count" />
-    <br>✨ **Proudly created with [GPRM](https://gprm.itsvg.in)** ✨
-</div>
