@@ -1,20 +1,12 @@
-<!-- JSON Metadata (tersembunyi dalam komentar) -->
+# 📌 Metadata Profesional
 {
-  "metadata": {
-    "author": "Muhammad Amin Hidayat (dayattt111)",
-    "title": "Full-Stack Developer | Tech Enthusiast",
-    "location": "Makassar, Indonesia",
-    "specializations": [
-      "Python Development",
-      "Web Applications",
-      "Database Systems",
-      "Computer Vision"
-    ],
-    "contact": {
-      "instagram": "ur.dayaa",
-      "linkedin": "muhammad-amin-hidayat-8b4989289",
-      "youtube": "dayaCoder"
-    }
+  "role": "Full-Stack Developer",
+  "location": "Makassar, Indonesia",
+  "focus_areas": ["Python", "Web Development", "Database Systems"],
+  "contact": {
+    "instagram": "ur.dayaa",
+    "linkedin": "muhammad-amin-hidayat-8b4989289",
+    "youtube": "dayaCoder"
   }
 }
 <h1 align="center" style="color:#58a6ff; font-family: 'Courier New', monospace;">
