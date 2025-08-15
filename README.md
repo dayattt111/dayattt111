@@ -1,5 +1,4 @@
 <!-- JSON Metadata (tersembunyi dalam komentar) -->
-<!--
 {
   "metadata": {
     "author": "Muhammad Amin Hidayat (dayattt111)",
@@ -18,15 +17,13 @@
     }
   }
 }
--->
-
 <h1 align="center" style="color:#58a6ff; font-family: 'Courier New', monospace;">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWJ5M3Z4cXQ4d3JjZ3R4dGJ2eG1qY2R5d2V4eGZ4bGJ5dW5jY3F6ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26tn33aiTi1jkl6H6/giphy.gif" width="100%"/>
   <br/>
   Hi 👋! I'm Daya (dayattt111)
   <br/>
-  <span style="font-size: 0.8em; color: #8b949e;">01000110 01110101 01101100 01101100 00101101 01010011 01110100 01100001 01100011 01101011 00100000 01000100 01100101 01110110 01100101 01101100 01101111 01110000 01100101 01110010</span>
-</h1>
+<!--   <span style="font-size: 0.8em; color: #8b949e;">01000110 01110101 01101100 01101100 00101101 01010011 01110100 01100001 01100011 01101011 00100000 01000100 01100101 01110110 01100101 01101100 01101111 01110000 01100101 01110010</span>
+</h1> -->
 
 <h3 align="center" style="color: #c9d1d9;">Building Digital Solutions with Precision and Passion</h3>
 
