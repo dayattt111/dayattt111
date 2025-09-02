@@ -1,14 +1,3 @@
-# 📌 Metadata Profesional
-{
-  "role": "Full-Stack Developer",
-  "location": "Makassar, Indonesia",
-  "focus_areas": ["Python", "Web Development", "Database Systems"],
-  "contact": {
-    "instagram": "ur.dayaa",
-    "linkedin": "muhammad-amin-hidayat-8b4989289",
-    "youtube": "dayaCoder"
-  }
-}
 <h1 align="center" style="color:#58a6ff; font-family: 'Courier New', monospace;">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWJ5M3Z4cXQ4d3JjZ3R4dGJ2eG1qY2R5d2V4eGZ4bGJ5dW5jY3F6ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26tn33aiTi1jkl6H6/giphy.gif" width="100%"/>
   <br/>
