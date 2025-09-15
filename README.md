@@ -1,6 +1,6 @@
 <!-- Banner Section: Replace this with your own banner image URL or remove if not needed -->
 <p align="center">
-  <img src="https://your-banner-image-url.com/banner.png" alt="Welcome Banner" width="100%" />
+  <img src="src/github-header-banner.png" alt="Welcome Banner" width="100%" />
 </p>
 
 <h1 align="center">
@@ -57,7 +57,7 @@
   <tr>
     <td align="center" width="50%">
       <a href="https://github.com/zeetechnologia/Laundry_Apps">
-        <img src="https://img.icons8.com/color/96/laundry.png" alt="Laundry Apps"/><br/>
+        <img src="src/250915_10h23m45s_screenshot.png" alt="Laundry Apps"/><br/>
         <b>Laundry_Apps</b>
       </a>
       <br>
@@ -65,7 +65,7 @@
     </td>
     <td align="center" width="50%">
       <a href="https://github.com/dcc-dp/sifo-desa">
-        <img src="https://img.icons8.com/color/96/website.png" alt="DCC Business Website"/><br/>
+        <img src="src/Logo DCC-noback.png" alt="DCC Business Website"/><br/>
         <b>Dipanegara Computer Club Business Website</b>
       </a>
       <br>
