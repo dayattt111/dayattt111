@@ -1,87 +1,116 @@
-<h1 align="center" style="color:#58a6ff; font-family: 'Courier New', monospace;">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWJ5M3Z4cXQ4d3JjZ3R4dGJ2eG1qY2R5d2V4eGZ4bGJ5dW5jY3F6ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26tn33aiTi1jkl6H6/giphy.gif" width="100%"/>
-  <br/>
-  Hi 👋! I'm Daya (dayattt111)
-  <br/>
-<!--   <span style="font-size: 0.8em; color: #8b949e;">01000110 01110101 01101100 01101100 00101101 01010011 01110100 01100001 01100011 01101011 00100000 01000100 01100101 01110110 01100101 01101100 01101111 01110000 01100101 01110010</span>
-</h1> -->
+<!-- Banner Section: Replace this with your own banner image URL or remove if not needed -->
+<p align="center">
+  <img src="https://your-banner-image-url.com/banner.png" alt="Welcome Banner" width="100%" />
+</p>
 
-<h3 align="center" style="color: #c9d1d9;">Building Digital Solutions with Precision and Passion</h3>
+<h1 align="center">
+  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="32" style="display:inline;vertical-align:middle;" /> 
+  Hi, I’m <span style="color:#00ADD8;">Muhammad Amin Hidayat</span>!
+</h1>
 
----
+<p align="center">
+  <b>Web Developer | Tech Enthusiast | Networking Buff | Student @ Universitas Dipa Makassar</b>
+  <br>
+  <i>Building apps, connecting worlds, and chasing sunsets 🌅</i>
+</p>
 
-## 🔍 Professional Profile
-
-**Full-Stack Developer** specializing in Python-based web applications and database systems. With expertise spanning from frontend design to backend architecture, I create robust, scalable solutions with clean, maintainable code.
-
-**Core Competencies:**
-- 🖥️ Full-stack web development (Django, Flask)
-- 🗃️ Database design & optimization (MySQL, MongoDB)
-- 🤖 Computer vision applications (OpenCV)
-- ☁️ Cloud integration & deployment (Firebase)
-
-**Currently Exploring:**
-- 🧠 Machine Learning fundamentals
-- ⚡ Performance optimization techniques
-- 🔒 Application security best practices
-
----
-
-## 🛠️ Technical Stack
-
-### Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-### Frameworks & Libraries
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white)
-
-### Databases
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-
-### Tools & Platforms
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-
----
-
-## 📈 GitHub Analytics
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dayattt111&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dayattt111&layout=compact&langs_count=8&theme=vision-friendly-dark"/>
-</div>
-
----
-
-## 🌐 Professional Network
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/muhammad-amin-hidayat-8b4989289" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
+<p align="center">
+  <!-- Social Media Badges -->
   <a href="https://instagram.com/ur.dayaa" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
-  <a href="https://youtube.com/dayaCoder" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
+  <a href="https://www.linkedin.com/in/muhammad-amin-hidayat/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-</div>
+  <a href="https://g.dev/hidayatdev" target="_blank">
+    <img src="https://img.shields.io/badge/Google%20Dev-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google Developer"/>
+  </a>
+</p>
 
 ---
 
-## 🎯 Personal Philosophy
+## 🧑‍💻 About Me
 
-> *"In code as in life, elegance emerges from simplicity. The most sophisticated solutions often come from breaking down complex problems into their fundamental components."*
+- 📡 A passionate web developer who loves to tinker with code and networks.
+- 🎓 Proudly learning and growing at Universitas Dipa Makassar.
+- 🧩 Always seeking the next puzzle to solve—especially with Python, C++, JS, PHP, and Go!
+- 🌍 Connecting communities through technology and collaboration.
 
-When not coding, you'll find me:
-- 🎮 Exploring virtual worlds in RPGs
-- 📺 Analyzing anime storytelling techniques
-- 🌐 Researching emerging tech trends
+---
 
-*Fun Fact: My coding sessions are often accompanied by epic anime soundtracks 🎵*
+## 🚀 Tech Toolbox
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Network-Config-3A3A3A?style=flat-square&logo=cisco&logoColor=white"/>
+</p>
+
+---
+
+## 🌟 Featured Projects
+
+<table align="center">
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://github.com/zeetechnologia/Laundry_Apps">
+        <img src="https://img.icons8.com/color/96/laundry.png" alt="Laundry Apps"/><br/>
+        <b>Laundry_Apps</b>
+      </a>
+      <br>
+      <i>Modern laundry management system for real-world business needs.</i>
+    </td>
+    <td align="center" width="50%">
+      <a href="https://github.com/dcc-dp/sifo-desa">
+        <img src="https://img.icons8.com/color/96/website.png" alt="DCC Business Website"/><br/>
+        <b>Dipanegara Computer Club Business Website</b>
+      </a>
+      <br>
+      <i>Empowering student communities with web solutions.</i>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://github.com/dayattt111/docker-gin-go">
+        <img src="https://img.icons8.com/color/96/docker.png" alt="docker-gin-go"/><br/>
+        <b>docker-gin-go</b>
+      </a>
+      <br>
+      <i>Starter for Gin (Go) web apps—containerized and ready to scale.</i>
+    </td>
+    <td align="center" width="50%">
+      <a href="https://github.com/dayattt111/book-shell-udemy">
+        <img src="https://img.icons8.com/color/96/console.png" alt="book-shell-udemy"/><br/>
+        <b>book-shell-udemy</b>
+      </a>
+      <br>
+      <i>Shell scripting exercises & notes from my learning journey.</i>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 🌅 Fun Fact
+
+> When I’m not coding or configuring networks, you’ll find me at the beach, chasing sunsets and fresh inspiration!  
+> <img src="https://img.icons8.com/color/48/000000/sunset.png" width="32"/>
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=dayattt111&show_icons=true&theme=tokyonight" alt="dayattt111's GitHub Stats"/>
+  <br>
+  <img src="https://komarev.com/ghpvc/?username=dayattt111&label=Profile%20views&color=0e75b6&style=flat" alt="dayattt111" />
+</p>
+
+---
+
+<p align="center" style="font-size:14px;">
+  <i>Thanks for stopping by! Let's build something amazing together 🚀</i>
+</p>
