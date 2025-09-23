@@ -74,9 +74,9 @@
   </tr>
   <tr>
     <td align="center" width="50%">
-      <a href="https://github.com/dayattt111/docker-gin-go">
-        <img src="https://img.icons8.com/color/96/docker.png" alt="docker-gin-go"/><br/>
-        <b>docker-gin-go</b>
+      <a href="https://github.com/dayattt111/QR-code">
+        <img src="https://img.icons8.com/color/96/docker.png" alt="Qr-Generate"/><br/>
+        <b>QR Code Generator</b>
       </a>
       <br>
       <i>Starter for Gin (Go) web apps—containerized and ready to scale.</i>
