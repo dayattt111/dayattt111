@@ -29,12 +29,29 @@
 
 ---
 
-## 🧑‍💻 About Me
+```json
+{
+  "name": "Muhammad Amin Hidayat",
+  "alias": "Dayat",
+  "role": "Web Developer",
+  "university": "Universitas Dipa Makassar",
+  "interests": [
+    "Web Development",
+    "Networking",
+    "Automation",
+    "Linux",
+    "Cybersecurity"
+  ],
+  "stack": {
+    "frontend": ["HTML", "CSS", "JavaScript"],
+    "backend": ["PHP", "Go", "Python"],
+    "tools": ["Git", "Linux", "Docker"]
+  },
+  "currently_learning": ["Go", "Network Engineering", "Web Security"],
+  "status": "Always building things 🚀"
+}
 
-- 📡 A passionate web developer who loves to tinker with code and networks.
-- 🎓 Proudly learning and growing at Universitas Dipa Makassar.
-- 🧩 Always seeking the next puzzle to solve—especially with Python, C++, JS, PHP, and Go!
-- 🌍 Connecting communities through technology and collaboration.
+```
 
 ---
 
@@ -105,26 +122,4 @@
   <i>Thanks for stopping by! Let's build something amazing together 🚀</i>
 </p>
 
-
-```json
-{
-  "name": "Muhammad Amin Hidayat",
-  "alias": "Dayat",
-  "role": "Web Developer",
-  "university": "Universitas Dipa Makassar",
-  "interests": [
-    "Web Development",
-    "Networking",
-    "Automation",
-    "Linux",
-    "Cybersecurity"
-  ],
-  "stack": {
-    "frontend": ["HTML", "CSS", "JavaScript"],
-    "backend": ["PHP", "Go", "Python"],
-    "tools": ["Git", "Linux", "Docker"]
-  },
-  "currently_learning": ["Go", "Network Engineering", "Web Security"],
-  "status": "Always building things 🚀"
-}
 
