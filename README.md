@@ -101,16 +101,6 @@
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dayattt111&show_icons=true&theme=tokyonight" alt="dayattt111's GitHub Stats"/>
-  <br>
-  <img src="https://komarev.com/ghpvc/?username=dayattt111&label=Profile%20views&color=0e75b6&style=flat" alt="dayattt111" />
-</p>
-
----
-
 <p align="center" style="font-size:14px;">
   <i>Thanks for stopping by! Let's build something amazing together 🚀</i>
 </p>
