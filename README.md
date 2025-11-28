@@ -1,6 +1,6 @@
 <!-- Banner Section: Replace this with your own banner image URL or remove if not needed -->
 <p align="center">
-  <img src="src/github-header-banner.png" alt="Welcome Banner" width="100%" />
+  <img src="src/head.png" alt="Welcome Banner" width="100%" />
 </p>
 
 <h1 align="center">
@@ -74,16 +74,16 @@
   <tr>
     <td align="center" width="50%">
       <a href="https://github.com/zeetechnologia/Laundry_Apps">
-        <img src="src/250915_10h23m45s_screenshot.png" alt="Laundry Apps"/><br/>
-        <b>Laundry_Apps</b>
+        <img src="src/1.jpg" alt="Laundry Apps"/><br/>
+        <b>Laundry Apps</b>
       </a>
       <br>
       <i>Modern laundry management system for real-world business needs.</i>
     </td>
     <td align="center" width="50%">
       <a href="https://github.com/dcc-dp/sifo-desa">
-        <img src="src/Logo DCC-noback.png" alt="DCC Business Website"/><br/>
-        <b>Dipanegara Computer Club Business Website</b>
+        <img src="src/2.jpg" alt="DCC Business Website"/><br/>
+        <b>New Dipanegara Computer Club Website</b>
       </a>
       <br>
       <i>Empowering student communities with web solutions.</i>
@@ -92,19 +92,19 @@
   <tr>
     <td align="center" width="50%">
       <a href="https://github.com/dayattt111/QR-code">
-        <img src="https://img.icons8.com/color/96/docker.png" alt="Qr-Generate"/><br/>
-        <b>QR Code Generator</b>
+        <img src="src/3.jpg" alt="Qr-Generate"/><br/>
+        <b>Costum QR Code Generator</b>
       </a>
       <br>
-      <i>Starter for Gin (Go) web apps—containerized and ready to scale.</i>
+      <i>for make it easier To Generate Link to QR Code Costum</i>
     </td>
     <td align="center" width="50%">
-      <a href="https://github.com/dayattt111/book-shell-udemy">
-        <img src="https://img.icons8.com/color/96/console.png" alt="book-shell-udemy"/><br/>
-        <b>book-shell-udemy</b>
+      <a href="https://github.com/dayattt111/project_dipaTalent">
+        <img src="src/4.jpg" alt="projects"/><br/>
+        <b>Dipa Talent Project</b>
       </a>
       <br>
-      <i>Shell scripting exercises & notes from my learning journey.</i>
+      <i>Manage a Talent's Center At University Dipa Makassar </i>
     </td>
   </tr>
 </table>
