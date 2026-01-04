@@ -119,8 +119,4 @@
 
 ---
 
-<p align="center" style="font-size:14px;">
-  <i>Thanks for stopping by! Let's build something amazing together 🚀</i>
-</p>
-
 
