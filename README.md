@@ -10,7 +10,7 @@
 </h1>
 
 <p align="center">
-  <b>Web Developer | Tech Enthusiast | Networking | Student @ Universitas Dipa Makassar</b>
+  <b>Fullstack Web Developer | Tech Enthusiast | Networking | Student @ Universitas Dipa Makassar</b>
   <br>
   <i>Building apps, connecting worlds, and chasing sunsets 🌅</i>
 </p>
