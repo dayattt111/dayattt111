@@ -97,7 +97,7 @@
         <b>Costum QR Code Generator</b>
       </a>
       <br>
-      <i>for make it easier To Generate Link to QR Code Costum</i>
+      <i>for make its easier To Generate Link to QR Code Costum</i>
     </td>
     <td align="center" width="50%">
       <a href="https://github.com/dayattt111/project_dipaTalent">
