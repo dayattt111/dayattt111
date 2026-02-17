@@ -12,7 +12,7 @@
 <p align="center">
   <b>Fullstack Web Developer | Tech Enthusiast | Networking | Students @ Universitas Dipa Makassar </b>
   <br>
-  <i>Building apps, connecting worlds, and chasing sunsets 🌅</i>
+  <i>Building apps, connecting worlds, and chasing sunsets</i>
 </p>
 
 <p align="center">
