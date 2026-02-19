@@ -1,7 +1,7 @@
 <!-- Banner Section: Replace this with your own banner image URL or remove if not needed -->
 <p align="center">
   <!-- <img src="src/head.png" alt="Welcome Banner" width="100%" /> -->
-  <img src="src/kny.gif" alt="Muhammad Amin Hidayat Banner" width="100%" />
+  <img src="src/ultra-galaxy-fight-the-destined-crossroad-ultraman.gif" alt="Muhammad Amin Hidayat Banner" width="100%" />
 </p>
 
 <h1 align="center">
