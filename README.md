@@ -110,13 +110,3 @@
   </tr>
 </table>
 
----
-
-## 🌅 Fun Fact
-
-> When I’m not coding or configuring networksz, you’ll find me at the beach, chasing sunsets and fresh inspiration!  
-> <img src="https://img.icons8.com/color/48/000000/sunset.png" width="32"/>
-
----
-
-
