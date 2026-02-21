@@ -1,112 +1,98 @@
-<!-- Banner Section: Replace this with your own banner image URL or remove if not needed -->
 <p align="center">
-  <!-- <img src="src/head.png" alt="Welcome Banner" width="100%" /> -->
-  <img src="src/ultra-galaxy-fight-the-destined-crossroad-ultraman.gif" alt="Muhammad Amin Hidayat Banner" width="100%" />
+  <img src="src/ultra-galaxy-fight-the-destined-crossroad-ultraman.gif" alt="Muhammad Amin Hidayat - Web Developer Makassar" width="100%" />
 </p>
 
-<h1 align="center">
-  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="32" style="display:inline;vertical-align:middle;" /> 
-  Hi, I’m <span style="color:#00ADD8;">Muhammad Amin Hidayat</span>!
-</h1>
+<h1 align="center">Muhammad Amin Hidayat</h1>
 
 <p align="center">
-  <b>Fullstack Web Developer | Tech Enthusiast | Networking | Students @ Universitas Dipa Makassar </b>
-  <br>
-  <i>Building apps, connecting worlds, and chasing sunsets</i>
-</p>
-
-<p align="center">
-  <!-- Social Media Badges -->
-  <a href="https://instagram.com/ur.dayaa" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-  </a>
-  <a href="https://www.linkedin.com/in/muhammad-amin-hidayat/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://g.dev/hidayatdev" target="_blank">
-    <img src="https://img.shields.io/badge/Google%20Dev-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google Developer"/>
-  </a>
+  <b>Fullstack Web Developer | Web Developer Makassar | Networking Enthusiast</b><br>
+  <i>Based in Makassar, Indonesia</i>
 </p>
 
 ---
 
-```json
-{
-  "name": "Muhammad Amin Hidayat",
-  "alias": "Dayat",
-  "role": "Web Developer",
-  "university": "Universitas Dipa Makassar",
-  "interests": [
-    "Web Development",
-    "Networking",
-    "Automation",
-    "Linux",
-    "Cybersecurity"
-  ],
-  "stack": {
-    "frontend": ["HTML", "CSS", "JavaScript"],
-    "backend": ["PHP", "Go", "Python"],
-    "tools": ["Git", "Linux", "Docker"]
-  },
-  "currently_learning": ["Go", "Network Engineering", "Web Security"],
-  "status": "Always building things 🚀"
-}
+## 👨‍💻 About Me
 
-```
+I am a Fullstack Web Developer based in Makassar, Indonesia, currently studying at Universitas Dipa Makassar.
+
+My main focus is building scalable web applications, backend systems, and automation solutions using modern technologies.  
+I am passionate about Web Development, Networking, Linux systems, and Cybersecurity.
+
+I enjoy turning ideas into real-world digital solutions that are efficient, structured, and impactful.
 
 ---
 
-## 🚀 Tech Toolbox
+## 📌 Professional Summary
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Network-Config-3A3A3A?style=flat-square&logo=cisco&logoColor=white"/>
-</p>
+- Location: Makassar, Indonesia  
+- Profession: Fullstack Web Developer  
+- University: Universitas Dipa Makassar  
+- Specialization: Backend Development, Web Systems, Automation  
+- Currently Learning: Go, Network Engineering, Web Security  
 
 ---
 
-## 🌟 Featured Projects
+## 🛠 Tech Stack
 
-<table align="center">
-  <tr>
-    <td align="center" width="50%">
-      <a href="https://github.com/zeetechnologia/Laundry_Apps">
-        <img src="src/1.jpg" alt="Laundry Apps"/><br/>
-        <b>Laundry Apps</b>
-      </a>
-      <br>
-      <i>Modern laundry management system for real-world business needs.</i>
-    </td>
-    <td align="center" width="50%">
-      <a href="https://github.com/dcc-dp/sifo-desa">
-        <img src="src/2.jpg" alt="DCC Business Website"/><br/>
-        <b>New Dipanegara Computer Club Website</b>
-      </a>
-      <br>
-      <i>Empowering student communities with web solutions.</i>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="50%">
-      <a href="https://github.com/dayattt111/QR-code">
-        <img src="src/3.jpg" alt="Qr-Generate"/><br/>
-        <b>Costum QR Code Generator</b>
-      </a>
-      <br>
-      <i>for make its easier To Generate Link to QR Code Costum</i>
-    </td>
-    <td align="center" width="50%">
-      <a href="https://github.com/dayattt111/project_dipaTalent">
-        <img src="src/4.jpg" alt="projects"/><br/>
-        <b>Dipa Talent Project</b>
-      </a>
-      <br>
-      <i>Manage a Talent's Center At University Dipa Makassar </i>
-    </td>
-  </tr>
-</table>
+### Frontend
+- HTML
+- CSS
+- JavaScript
 
+### Backend
+- PHP
+- Go
+- Python
+
+### DevOps & Tools
+- Git
+- Linux
+- Docker
+
+### Networking
+- Basic Cisco Configuration
+- Network Troubleshooting
+
+---
+
+## 🚀 Featured Projects
+
+### 1️⃣ Laundry Management System  
+Modern laundry management system designed to support real-world business operations with structured workflow and efficient data management.  
+Repository: https://github.com/zeetechnologia/Laundry_Apps
+
+---
+
+### 2️⃣ Dipanegara Computer Club Website  
+Official website project built to empower student communities with structured web solutions.  
+Repository: https://github.com/dcc-dp/sifo-desa
+
+---
+
+### 3️⃣ Custom QR Code Generator  
+A customizable QR Code generator built to simplify link sharing and digital access.  
+Repository: https://github.com/dayattt111/QR-code
+
+---
+
+### 4️⃣ Dipa Talent Management System  
+Web-based talent management system developed for Universitas Dipa Makassar to manage student talent data effectively.  
+Repository: https://github.com/dayattt111/project_dipaTalent
+
+---
+
+## 🌐 Connect With Me
+
+- Instagram: https://instagram.com/ur.dayaa  
+- LinkedIn: https://www.linkedin.com/in/muhammad-amin-hidayat/  
+- Google Developer Profile: https://g.dev/hidayatdev  
+
+---
+
+## 🎯 Career Vision
+
+To become a highly skilled backend engineer and system architect, contributing to impactful digital solutions in Indonesia and beyond.
+
+---
+
+⭐ Always building. Always learning.
