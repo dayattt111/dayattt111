@@ -20,7 +20,7 @@
 I am a Fullstack Web Developer from Makassar, Indonesia, passionate about building scalable web applications, backend systems, and automation solutions.
 
 My interests include Web Development, Networking, Linux, and Cybersecurity.  
-Currently improving my skills in Go, Network Engineering, and Web Security.
+Currently improving my skills in Go, Network Engineering, and Web Security. 
 
 ---
 
