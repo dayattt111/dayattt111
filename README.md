@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="src/ultraman ginga.gif" 
+  <img src="src/ultraman.gif" 
        alt="Muhammad Amin Hidayat - Web Developer Makassar" 
        width="100%" />
 </p>
