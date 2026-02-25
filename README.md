@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="src/ultra-galaxy-fight-the-destined-crossroad-ultraman.gif" 
+  <img src="src/ultraman ginga.gif" 
        alt="Muhammad Amin Hidayat - Web Developer Makassar" 
        width="100%" />
 </p>
