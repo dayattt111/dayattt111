@@ -1,8 +1,8 @@
-<!-- <p align="center">
-  <img src="src/ultraman.gif" 
+<p align="center">
+  <img src="src/github-header-banner.png" 
        alt="Muhammad Amin Hidayat - Web Developer Makassar" 
        width="100%" />
-</p> -->
+</p> 
 
 <h1 align="center">
   Hi, I’m <span style="color:#00ADD8;">Muhammad Amin Hidayat</span>
