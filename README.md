@@ -4,6 +4,9 @@
        width="100%" />
 </p> 
 
+ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAICXkiC1pbZjT9f3Z/ak92ZXdc5LCtCWrJhnwXY1hjZhs hikaruu-RTO
+
+
 <h1 align="center">
   Hi, I’m <span style="color:#00ADD8;">Muhammad Amin Hidayat</span>
 </h1>
