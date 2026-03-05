@@ -4,6 +4,8 @@
        width="100%" />
 </p> 
 
+
+
 <h1 align="center">
   Hi, I’m <span style="color:#00ADD8;">Muhammad Amin Hidayat</span>
 </h1>
