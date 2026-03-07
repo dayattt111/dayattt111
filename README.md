@@ -83,7 +83,6 @@ Instagram: https://instagram.com/ur.dayaa
 LinkedIn: https://www.linkedin.com/in/muhammad-amin-hidayat/  
 Google Developer: https://g.dev/hidayatdev  
 Portfolio Web : https://www.devdaya.my.id
-
 Download Laragon Free ? https://drive.google.com/drive/folders/1xCyjzhMblHocIRZkHjer9CWDVnFo_Ek7
 ---
 
