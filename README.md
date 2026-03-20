@@ -4,6 +4,7 @@
        width="100%" />
 </p> 
 
+
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=36&duration=2500&pause=1200&color=00ADD8&center=true&vCenter=true&width=650&lines=Muhammad+Amin+Hidayat;Let's+Connect+and+Collaborate" />
 </p>
