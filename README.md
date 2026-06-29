@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="src/github-header-banner.png" 
+  <img src="src/elaina.gif" 
        alt="Muhammad Amin Hidayat - Web Developer Makassar" 
        width="100%" />
 </p> 
