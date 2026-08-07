@@ -2,7 +2,7 @@
 
 <img
 width="100%"
-src="https://capsule-render.vercel.app/api?type=waving&height=360&color=0:312E81,18:4C1D95,45:6D28D9,72:8B5CF6,100:C084FC&text=Muhammad%20Amin%20Hidayat&fontColor=FFFFFF&fontSize=60&fontAlignY=41&animation=fadeIn&desc=AI%20Engineer%20%E2%80%A2%20Building%20Intelligent%20Software&descAlignY=63&descSize=20"
+src="src/github-banner.svg"
 />
 
 </p>
