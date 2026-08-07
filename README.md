@@ -99,7 +99,7 @@ Today, I focus on building software that is not only functional, but also scalab
 
 <p>
 
-<img src="https://skillicons.dev/icons?i=python,go,php,laravel,nodejs,react,nextjs,mysql,postgres,docker,linux,git,github,vscode"/>
+<img src="https://skillicons.dev/icons?i=python,php,laravel,react,nextjs,mysql,postgres,linux,docker,aws,github,arch,gcp"/>
 
 </p>
 
@@ -143,11 +143,3 @@ Laragon
 https://drive.google.com/drive/folders/1xCyjzhMblHocIRZkHjer9CWDVnFo_Ek7
 
 </details>
-
-<br>
-
-<p align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=180&color=0:312E81,18:4C1D95,45:6D28D9,72:8B5CF6,100:C084FC"/>
-
-</p>
