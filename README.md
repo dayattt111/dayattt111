@@ -8,50 +8,52 @@ src="src/github-banner.svg"
 </p>
 
 <p align="center">
-
-<b>Artificial Intelligence</b>
-&nbsp;&nbsp;•&nbsp;&nbsp;
-<b>Backend Engineering</b>
-&nbsp;&nbsp;•&nbsp;&nbsp;
-<b>Automation</b>
-
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Random Quote" />
 </p>
 
 <p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vcenter=true&width=500&lines=Muhammad+Amin+Hidayat;Full-Stack+Engineering;AI+%26+Automation;Cloud+%26+Linux+Administration" alt="Typing SVG" />
+  </a>
+</p>
 
-Designing intelligent applications that combine AI, scalable backend
-architecture, and modern web technologies.
+<div align="center">
+  <b>Artificial Intelligence</b>
+  &nbsp;&nbsp;•&nbsp;&nbsp;
+  <b>FullStack Dev</b>
+  &nbsp;&nbsp;•&nbsp;&nbsp;
+  <b>Automation</b>
+</div>
+
+<p align="center">
+
+"Actively leading and contributing to tech communities, empowering students and developers through mentorship, collaboration, and knowledge sharing."
 
 </p>
 
 <table width="100%">
-<tr>
-
-<td width="33.33%" align="center">
-
-<a href="https://github.com/TalentIQ-ai">
-<img src="src/1.jpg" height="300"/>
-</a>
-
-</td>
-
-<td width="33.33%" align="center">
-
-<a href="https://github.com/Amar-Group">
-<img src="src/2.jpg" height="300"/>
-</a>
-
-</td>
-
-<td width="33.33%" align="center">
-
-<a href="https://github.com/NOKARA-Core">
-<img src="src/3.jpg" height="300"/>
-</a>
-
-</td>
-
-</tr>
+  <tr>
+    <td width="25%" align="center">
+      <a href="https://github.com/TalentIQ-ai">
+        <img src="src/1.jpg" height="300" />
+      </a>
+    </td>
+    <td width="25%" align="center">
+      <a href="https://github.com/Amar-Group">
+        <img src="src/2.jpg" height="300" />
+      </a>
+    </td>
+    <td width="25%" align="center">
+      <a href="https://github.com/NOKARA-Core">
+        <img src="src/3.jpg" height="300" />
+      </a>
+    </td>
+    <td width="25%" align="center">
+      <a href="https://github.com/dcc-dp">
+        <img src="src/4.jpg" height="300" />
+      </a>
+    </td>
+  </tr>
 </table>
 
 
@@ -75,6 +77,10 @@ architecture, and modern web technologies.
 <img src="https://img.shields.io/badge/Google%20Developer-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
 </a>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=dayattt111&color=00d2ff&style=flat-square&label=Profile+Views" alt="Profile Views" />
+</p>
+
 </p>
 
 ---
@@ -87,11 +93,14 @@ architecture, and modern web technologies.
 
 ### About
 
-Technology has always been more than just writing code for me.
+# Muhammad Amin Hidayat (Indonesia)
+**Timika, Papua(Now) - Makassar, South Sulawesi**
 
-I enjoy transforming ideas into products that solve real problems, from modern web applications to AI-powered solutions. My journey began with backend development and gradually expanded into artificial intelligence, automation, cloud computing, Linux, and networking.
+Technology has always been more than just writing code for me—it is a medium to transform ideas into products that solve real problems.
 
-Today, I focus on building software that is not only functional, but also scalable, maintainable, and meaningful for its users. Every project is an opportunity to learn, experiment, and create something better than the previous one.
+My journey began in backend development and gradually expanded into full-stack engineering, artificial intelligence, automation, cloud computing, Linux systems, and networking. Today, my primary focus is on engineering software that is functional, scalable, maintainable, and deeply meaningful for its users.
+
+Driven by curiosity and continuous improvement, I treat every project as an opportunity to learn, experiment, and build something better than before. I am always open to collaborating on innovative tech projects and connecting with fellow builders.
 
 ---
 
@@ -99,8 +108,16 @@ Today, I focus on building software that is not only functional, but also scalab
 
 <p>
 
-<img src="https://skillicons.dev/icons?i=python,php,laravel,react,nextjs,mysql,postgres,linux,docker,aws,github,arch,gcp"/>
+<img src="https://skillicons.dev/icons?i=python,php,laravel,react,nextjs,mysql,postgres,postman,linux,docker,prometheus,aws,git,github,gitlab,githubactions,arch,ubuntu,gcp"/>
 
+</p>
+
+---
+
+### Streak Woy Streak
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dayattt111&theme=transparent&hide_border=true&background=00000000" alt="GitHub Streak" />
 </p>
 
 ---
@@ -124,17 +141,6 @@ Today, I focus on building software that is not only functional, but also scalab
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=dayattt111&theme=github-compact"/>
 
 </p>
-
----
-
-### Featured Projects
-
-- Laundry Management System
-- Dipa Talent
-- QR Code Generator
-- Dipanegara Computer Club Website
-
----
 
 ### Free Resources
 
