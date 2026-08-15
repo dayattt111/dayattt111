@@ -8,13 +8,59 @@ src="src/github-banner.svg"
 </p>
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Random Quote" />
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=RANDOM&center=true&vcenter=true&width=500&lines=Muhammad+Amin+Hidayat;Masih+Pemula" alt="Typing SVG" />
+  </a>
 </p>
 
+<br>
+
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vcenter=true&width=500&lines=Muhammad+Amin+Hidayat;Full-Stack+Engineering;AI+%26+Automation;Cloud+%26+Linux+Administration" alt="Typing SVG" />
-  </a>
+
+<a href="https://www.devdaya.my.id">
+<img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/muhammad-amin-hidayat/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://instagram.com/ur.dayaa">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+<a href="https://g.dev/hidayatdev">
+<img src="https://img.shields.io/badge/Google%20Developer-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+<details>
+
+<summary><strong>Explore My Profile ( Click )</strong></summary>
+
+<br>
+
+### About
+
+# Muhammad Amin Hidayat (Indonesia)
+**Timika, Papua(Now) - Makassar, South Sulawesi**
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=dayattt111&color=00d2ff&style=flat-square&label=Profile+Views" alt="Profile Views" />
+</p>
+
+Technology has always been more than just writing code for me—it is a medium to transform ideas into products that solve real problems.
+
+My journey began in backend development and gradually expanded into full-stack engineering, artificial intelligence, automation, cloud computing, Linux systems, and networking. Today, my primary focus is on engineering software that is functional, scalable, maintainable, and deeply meaningful for its users.
+
+Driven by curiosity and continuous improvement, I treat every project as an opportunity to learn, experiment, and build something better than before. I am always open to collaborating on innovative tech projects and connecting with fellow builders.
+
+---
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Random Quote" />
 </p>
 
 <div align="center">
@@ -55,54 +101,6 @@ src="src/github-banner.svg"
     </td>
   </tr>
 </table>
-
-
-<br>
-
-<p align="center">
-
-<a href="https://www.devdaya.my.id">
-<img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/muhammad-amin-hidayat/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://instagram.com/ur.dayaa">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
-
-<a href="https://g.dev/hidayatdev">
-<img src="https://img.shields.io/badge/Google%20Developer-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
-</a>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=dayattt111&color=00d2ff&style=flat-square&label=Profile+Views" alt="Profile Views" />
-</p>
-
-</p>
-
----
-
-<details>
-
-<summary><strong>Explore My Profile</strong></summary>
-
-<br>
-
-### About
-
-# Muhammad Amin Hidayat (Indonesia)
-**Timika, Papua(Now) - Makassar, South Sulawesi**
-
-Technology has always been more than just writing code for me—it is a medium to transform ideas into products that solve real problems.
-
-My journey began in backend development and gradually expanded into full-stack engineering, artificial intelligence, automation, cloud computing, Linux systems, and networking. Today, my primary focus is on engineering software that is functional, scalable, maintainable, and deeply meaningful for its users.
-
-Driven by curiosity and continuous improvement, I treat every project as an opportunity to learn, experiment, and build something better than before. I am always open to collaborating on innovative tech projects and connecting with fellow builders.
-
----
 
 ### Tech Stack
 
