@@ -46,7 +46,7 @@ src="src/github-banner.svg"
 ### About
 
 # Muhammad Amin Hidayat (Indonesia)
-**Timika, Papua(Now) - Makassar, South Sulawesi**
+## **Timika, Papua(Now) - Makassar, South Sulawesi**
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=dayattt111&color=00d2ff&style=flat-square&label=Profile+Views" alt="Profile Views" />
 </p>
