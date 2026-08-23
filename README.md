@@ -56,7 +56,7 @@
   <!-- 4. Support & Sponsor Button (Footer) -->
   <p align="center">
     <a href="https://sociabuzz.com/hikaruucore/tribe" target="_blank">
-      <img src="https://img.shields.io/badge/💛_Support_via-SociaBuzz_Tribe-212121?style=for-the-badge" alt="SociaBuzz Tribe" />
+      <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="SociaBuzz Tribe" height="50" />
     </a>
   </p>
 
