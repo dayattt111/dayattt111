@@ -60,7 +60,7 @@
     </a>
   </p>
 
-### ⚡ Daily Dev Chuckle
+### Humor Receh Mas-Mas Palugada yang tiap hari di ruang Server :
 <!-- JOKE:START -->
 > *"Why is Linux safe?  Hackers peak through Windows only."*
 <!-- JOKE:END -->
