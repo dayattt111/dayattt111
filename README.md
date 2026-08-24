@@ -60,6 +60,11 @@
     </a>
   </p>
 
+### ⚡ Daily Dev Chuckle
+<!-- JOKE:START -->
+> *"Why is Linux safe?  Hackers peak through Windows only."*
+<!-- JOKE:END -->
+
 </div>
 
 
@@ -192,11 +197,6 @@ Driven by curiosity and continuous improvement, I treat every project as an oppo
 <p align="center">
   <img src="github-metrics.svg" alt="GitHub Metrics" width="100%" />
 </p>
-
-### ⚡ Daily Dev Chuckle
-<!-- JOKE:START -->
-> *"Why is Linux safe?  Hackers peak through Windows only."*
-<!-- JOKE:END -->
 
 ---
 
