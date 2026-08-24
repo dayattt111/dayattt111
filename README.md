@@ -1,3 +1,9 @@
+### 🐍 Contribution Activity
+<p align="center">
+  <img src="https://raw.githubusercontent.com/dayattt111/dayattt111/output/github-snake-dark.svg" alt="Snake Animation" />
+</p>
+
+
 <div align="center">
 
   <!-- 1. Header / Typing Intro -->
