@@ -1,0 +1,33 @@
+name: Update Daily Dev Joke
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-joke:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Fetch and inject Joke
+        run: |
+          JOKE=$(curl -s https://v2.jokeapi.dev/joke/Programming?format=txt)
+          node -e "
+            const fs = require('fs');
+            let content = fs.readFileSync('README.md', 'utf8');
+            const joke = \`> *\"\` + process.env.JOKE.replace(/\n/g, ' ') + \`\"*\`;
+            content = content.replace(/<!-- JOKE:START -->[\\s\\S]*?<!-- JOKE:END -->/, '<!-- JOKE:START -->\n' + joke + '\n<!-- JOKE:END -->');
+            fs.writeFileSync('README.md', content);
+          "
+        env:
+          JOKE: ${{ steps.joke.outputs.joke }}
+      - name: Commit and Push
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git diff --staged --quiet || git commit -m "Update daily joke" && git push

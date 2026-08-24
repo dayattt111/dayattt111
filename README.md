@@ -1,14 +1,23 @@
-### 🐍 Contribution Activity
+### Contribution Activity
 <p align="center">
   <img src="https://raw.githubusercontent.com/dayattt111/dayattt111/output/github-snake-dark.svg" alt="Snake Animation" />
 </p>
 
 
-### 🧊 3D Contribution Graph
+### 3D Contribution Graph
 <p align="center">
   <img src="profile-3d-contrib/profile-night-rainbow.svg" alt="3D Graph" width="100%" />
 </p>
 
+
+### In-Depth Metrics
+<p align="center">
+  <img src="github-metrics.svg" alt="GitHub Metrics" width="100%" />
+</p>
+
+### ⚡ Daily Dev Chuckle
+<!-- JOKE:START -->
+<!-- JOKE:END -->
 
 <div align="center">
 
