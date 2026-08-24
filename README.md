@@ -188,7 +188,7 @@ Driven by curiosity and continuous improvement, I treat every project as an oppo
 
 ---
 
-### GitHub Analytics
+<!-- ### GitHub Analytics
 
 <p align="center">
 
@@ -196,7 +196,7 @@ Driven by curiosity and continuous improvement, I treat every project as an oppo
 
 <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=dayattt111&layout=compact&theme=transparent&hide_border=true"/>
 
-</p>
+</p> -->
 
 ---
 
