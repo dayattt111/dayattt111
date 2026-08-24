@@ -195,6 +195,7 @@ Driven by curiosity and continuous improvement, I treat every project as an oppo
 
 ### ⚡ Daily Dev Chuckle
 <!-- JOKE:START -->
+> *"Why is Linux safe?  Hackers peak through Windows only."*
 <!-- JOKE:END -->
 
 ---
