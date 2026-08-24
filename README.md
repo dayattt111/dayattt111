@@ -4,6 +4,12 @@
 </p>
 
 
+### 🧊 3D Contribution Graph
+<p align="center">
+  <img src="profile-3d-contrib/profile-night-rainbow.svg" alt="3D Graph" width="100%" />
+</p>
+
+
 <div align="center">
 
   <!-- 1. Header / Typing Intro -->
