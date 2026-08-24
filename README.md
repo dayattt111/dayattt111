@@ -200,18 +200,6 @@ Driven by curiosity and continuous improvement, I treat every project as an oppo
 
 ---
 
-<!-- ### GitHub Analytics
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=dayattt111&show_icons=true&theme=transparent&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=dayattt111&layout=compact&theme=transparent&hide_border=true"/>
-
-</p> -->
-
----
-
 ### Activity
 
 <p align="center">
