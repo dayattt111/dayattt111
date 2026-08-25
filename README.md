@@ -62,7 +62,7 @@
 
 ### Humor Receh Mas-Mas Palugada yang tiap hari di ruang Server :
 <!-- JOKE:START -->
-> *"Why is Linux safe?  Hackers peak through Windows only."*
+> *"Have a great weekend! I hope your code behaves the same on Monday as it did on Friday."*
 <!-- JOKE:END -->
 
 </div>
