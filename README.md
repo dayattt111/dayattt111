@@ -18,6 +18,10 @@
 
   <!-- 3. Google Developer Badges (1 Baris Rata Tengah) -->
   <p align="center">
+    <a href="https://developers.google.com/profile/badges/community/get-certified-26-edition-3?u=hidayatdev" target="_blank">
+      <img src="https://developers.google.com/static/profile/badges/community/get-certified-26-edition-3/badge.svg" width="58" alt="Profile Created" />
+    </a>
+    &nbsp;
     <a href="https://developers.google.com/profile/badges/profile/created-profile?u=hidayatdev" target="_blank">
       <img src="https://developers.google.com/static/profile/badges/profile/created-profile/created_profile.svg" width="58" alt="Profile Created" />
     </a>
