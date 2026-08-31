@@ -66,7 +66,7 @@
 
 ### Humor Receh Mas-Mas Palugada yang tiap hari di ruang Server :
 <!-- JOKE:START -->
-> *"Why do they call it hyper terminal?  Too much Java."*
+> *"UDP is better in the COVID era since it avoids unnecessary handshakes."*
 <!-- JOKE:END -->
 
 </div>
