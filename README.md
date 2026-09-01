@@ -8,14 +8,11 @@
   <br/>
 
   <!-- 2. Licenses & Featured Certifications -->
-  <p align="center">
-    <a href="https://www.credly.com/badges/06f954b8-9825-43e9-989a-83204a4b2ec8/public_url" target="_blank">
-      <img src="https://images.credly.com/size/680x680/images/e42ec4cf-c794-4f16-b6f1-c86db7e905cf/BadgeEmblem_CodeGenerationAndOptimizationUsingIBMGranite.png" width="135" alt="Code Generation and Optimization Using IBM Granite Badge" />
-    </a>
-    <a href="https://www.credly.com/badges/ed5444bd-e9bc-4da3-a81b-ca791b0fbcb3/public_url" target="_blank">
-      <img src="https://images.credly.com/size/220x220/images/f5c094f4-e07c-44e0-b685-4ffd8980fd53/blob" width="135" alt="Credly Badge" />
-    </a>
-  </p>
+<p align="center">
+  <a href="https://www.credly.com/badges/ed5444bd-e9bc-4da3-a81b-ca791b0fbcb3/public_url" target="_blank">
+    <img src="https://images.credly.com/size/220x220/images/f5c094f4-e07c-44e0-b685-4ffd8980fd53/blob" width="135" alt="Credly Badge" />
+  </a>
+</p>
 
   <br/>
 
@@ -113,6 +110,21 @@ src="src/github-banner.svg"
 
 <img src="https://komarev.com/ghpvc/?username=dayattt111&color=00d2ff&style=flat-square&label=Profile+Views" alt="Profile Views" />
 
+</p>
+
+<p align="center">
+  <a href="https://www.credly.com/badges/06f954b8-9825-43e9-989a-83204a4b2ec8/public_url" target="_blank">
+    <img src="https://images.credly.com/size/680x680/images/e42ec4cf-c794-4f16-b6f1-c86db7e905cf/BadgeEmblem_CodeGenerationAndOptimizationUsingIBMGranite.png" width="135" alt="Code Generation and Optimization Using IBM Granite Badge" />
+  </a>
+  <a href="https://www.credly.com/badges/772a7d2e-80b7-4d9e-af94-fccec3b10bf6/public_url" target="_blank">
+    <img src="https://images.credly.com/size/220x220/images/730e9c82-7869-4288-b580-9f8500a94465/blob" width="135" alt="Credly Badge" />
+  </a>
+  <a href="https://www.credly.com/badges/8dbf39cf-43bf-4333-8f31-e75abbd66ad7/public_url" target="_blank">
+    <img src="https://images.credly.com/size/680x680/images/c8a24500-d484-4e48-825a-de40b4c5c948/blob" width="135" alt="Credly Badge" />
+  </a>
+  <a href="https://www.credly.com/badges/a1086c98-a9e8-47ec-acbb-84d6fbd518e9/public_url" target="_blank">
+    <img src="https://images.credly.com/size/220x220/images/2aff887d-ee1e-479f-b26f-dcb20d647bd6/blob" width="135" alt="Credly Badge" />
+  </a>
 </p>
 
 ### About
