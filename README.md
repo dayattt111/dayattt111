@@ -12,6 +12,9 @@
     <a href="https://www.credly.com/badges/06f954b8-9825-43e9-989a-83204a4b2ec8/public_url" target="_blank">
       <img src="https://images.credly.com/size/680x680/images/e42ec4cf-c794-4f16-b6f1-c86db7e905cf/BadgeEmblem_CodeGenerationAndOptimizationUsingIBMGranite.png" width="135" alt="Code Generation and Optimization Using IBM Granite Badge" />
     </a>
+    <a href="https://www.credly.com/badges/ed5444bd-e9bc-4da3-a81b-ca791b0fbcb3/public_url" target="_blank">
+      <img src="https://images.credly.com/size/220x220/images/f5c094f4-e07c-44e0-b685-4ffd8980fd53/blob" width="135" alt="Credly Badge" />
+    </a>
   </p>
 
   <br/>
