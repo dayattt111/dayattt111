@@ -66,7 +66,7 @@
 
 ### Humor Receh Mas-Mas Palugada yang tiap hari di ruang Server :
 <!-- JOKE:START -->
-> *"UDP is better in the COVID era since it avoids unnecessary handshakes."*
+> *"Why do programmers wear glasses?  Because they need to C#"*
 <!-- JOKE:END -->
 
 </div>
