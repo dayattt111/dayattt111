@@ -66,7 +66,7 @@
 
 ### Humor Receh Mas-Mas Palugada yang tiap hari di ruang Server :
 <!-- JOKE:START -->
-> *"Why do programmers wear glasses?  Because they need to C#"*
+> *"How do you generate a random string?  Put a Windows user in front of Vim and tell them to exit."*
 <!-- JOKE:END -->
 
 </div>
