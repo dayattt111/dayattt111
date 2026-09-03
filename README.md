@@ -66,7 +66,7 @@
 
 ### Humor Receh Mas-Mas Palugada yang tiap hari di ruang Server :
 <!-- JOKE:START -->
-> *"How do you generate a random string?  Put a Windows user in front of Vim and tell them to exit."*
+> *"Programming is like sex.  Make one mistake and you end up supporting it for the rest of your life."*
 <!-- JOKE:END -->
 
 </div>
