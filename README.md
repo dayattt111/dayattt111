@@ -66,7 +66,7 @@
 
 ### Humor Receh Mas-Mas Palugada yang tiap hari di ruang Server :
 <!-- JOKE:START -->
-> *"Programming is like sex.  Make one mistake and you end up supporting it for the rest of your life."*
+> *"Two SQL tables sit at the bar. A query approaches and asks "Can I join you?""*
 <!-- JOKE:END -->
 
 </div>
