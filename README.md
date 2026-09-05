@@ -66,7 +66,7 @@
 
 ### Humor Receh Mas-Mas Palugada yang tiap hari di ruang Server :
 <!-- JOKE:START -->
-> *"Two SQL tables sit at the bar. A query approaches and asks "Can I join you?""*
+> *"Documentation is like sex: When it's good, it's very good. When it's bad, it's better than nothing..."*
 <!-- JOKE:END -->
 
 </div>
