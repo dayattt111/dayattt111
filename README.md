@@ -66,7 +66,7 @@
 
 ### Humor Receh Mas-Mas Palugada yang tiap hari di ruang Server :
 <!-- JOKE:START -->
-> *"Documentation is like sex: When it's good, it's very good. When it's bad, it's better than nothing..."*
+> *"Knock knock. Who's there? Recursion. Recursion who? Knock knock."*
 <!-- JOKE:END -->
 
 </div>
