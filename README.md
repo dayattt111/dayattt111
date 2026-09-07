@@ -66,7 +66,7 @@
 
 ### Humor Receh Mas-Mas Palugada yang tiap hari di ruang Server :
 <!-- JOKE:START -->
-> *"Knock knock. Who's there? Recursion. Recursion who? Knock knock."*
+> *"Why did the database administrator leave his wife?  She had one-to-many relationships."*
 <!-- JOKE:END -->
 
 </div>
