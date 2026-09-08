@@ -66,7 +66,7 @@
 
 ### Humor Receh Mas-Mas Palugada yang tiap hari di ruang Server :
 <!-- JOKE:START -->
-> *"Why did the database administrator leave his wife?  She had one-to-many relationships."*
+> *"What do you get if you lock a monkey in a room with a typewriter for 8 hours?  A regular expression."*
 <!-- JOKE:END -->
 
 </div>
