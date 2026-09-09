@@ -66,7 +66,7 @@
 
 ### Humor Receh Mas-Mas Palugada yang tiap hari di ruang Server :
 <!-- JOKE:START -->
-> *"What do you get if you lock a monkey in a room with a typewriter for 8 hours?  A regular expression."*
+> *"How do you generate a random string?  Put a Windows user in front of Vim and tell them to exit."*
 <!-- JOKE:END -->
 
 </div>
