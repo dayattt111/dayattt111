@@ -66,7 +66,7 @@
 
 ### Humor Receh Mas-Mas Palugada yang tiap hari di ruang Server :
 <!-- JOKE:START -->
-> *"How do you generate a random string?  Put a Windows user in front of Vim and tell them to exit."*
+> *"Why did the programmer quit his job?  Because he didn't get arrays."*
 <!-- JOKE:END -->
 
 </div>
