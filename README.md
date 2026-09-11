@@ -66,7 +66,7 @@
 
 ### Humor Receh Mas-Mas Palugada yang tiap hari di ruang Server :
 <!-- JOKE:START -->
-> *"Why did the programmer quit his job?  Because he didn't get arrays."*
+> *"Why do Java programmers hate communism?  They don't want to live in a classless society."*
 <!-- JOKE:END -->
 
 </div>
