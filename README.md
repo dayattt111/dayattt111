@@ -66,7 +66,7 @@
 
 ### Humor Receh Mas-Mas Palugada yang tiap hari di ruang Server :
 <!-- JOKE:START -->
-> *"Why do Java programmers hate communism?  They don't want to live in a classless society."*
+> *"How can you tell an extroverted programmer?  He looks at YOUR shoes when he's talking."*
 <!-- JOKE:END -->
 
 </div>
