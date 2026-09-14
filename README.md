@@ -66,7 +66,7 @@
 
 ### Humor Receh Mas-Mas Palugada yang tiap hari di ruang Server :
 <!-- JOKE:START -->
-> *"Why did the JavaScript heap close shop?  It ran out of memory."*
+> *"Why do programmers confuse Halloween and Christmas?  Because Oct 31 = Dec 25"*
 <!-- JOKE:END -->
 
 </div>
