@@ -66,7 +66,7 @@
 
 ### Humor Receh Mas-Mas Palugada yang tiap hari di ruang Server :
 <!-- JOKE:START -->
-> *"Why do programmers confuse Halloween and Christmas?  Because Oct 31 = Dec 25"*
+> *"I've got a really good UDP joke to tell you but I don’t know if you'll get it."*
 <!-- JOKE:END -->
 
 </div>
