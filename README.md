@@ -66,7 +66,7 @@
 
 ### Humor Receh Mas-Mas Palugada yang tiap hari di ruang Server :
 <!-- JOKE:START -->
-> *"I've got a really good UDP joke to tell you but I don’t know if you'll get it."*
+> *"What is the best prefix for global variables?  //"*
 <!-- JOKE:END -->
 
 </div>
