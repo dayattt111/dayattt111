@@ -66,7 +66,7 @@
 
 ### Humor Receh Mas-Mas Palugada yang tiap hari di ruang Server :
 <!-- JOKE:START -->
-> *"What is the best prefix for global variables?  //"*
+> *"Algorithm: A word used by programmers when they don't want to explain how their code works."*
 <!-- JOKE:END -->
 
 </div>
