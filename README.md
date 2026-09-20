@@ -66,7 +66,7 @@
 
 ### Humor Receh Mas-Mas Palugada yang tiap hari di ruang Server :
 <!-- JOKE:START -->
-> *"Algorithm: A word used by programmers when they don't want to explain how their code works."*
+> *"Why is 6 afraid of 7 in hexadecimal Canada?  Because 7 8 9 A?"*
 <!-- JOKE:END -->
 
 </div>
