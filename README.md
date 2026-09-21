@@ -66,7 +66,7 @@
 
 ### Humor Receh Mas-Mas Palugada yang tiap hari di ruang Server :
 <!-- JOKE:START -->
-> *"Why is 6 afraid of 7 in hexadecimal Canada?  Because 7 8 9 A?"*
+> *"why do python programmers wear glasses?  Because they can't C."*
 <!-- JOKE:END -->
 
 </div>
