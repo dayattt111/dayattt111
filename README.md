@@ -66,7 +66,7 @@
 
 ### Humor Receh Mas-Mas Palugada yang tiap hari di ruang Server :
 <!-- JOKE:START -->
-> *"why do python programmers wear glasses?  Because they can't C."*
+> *"How do you know God is a shitty programmer?  He wrote the OS for an entire universe, but didn't leave a single useful comment."*
 <!-- JOKE:END -->
 
 </div>
