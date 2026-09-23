@@ -66,7 +66,7 @@
 
 ### Humor Receh Mas-Mas Palugada yang tiap hari di ruang Server :
 <!-- JOKE:START -->
-> *"How do you know God is a shitty programmer?  He wrote the OS for an entire universe, but didn't leave a single useful comment."*
+> *"What do you get if you lock a monkey in a room with a typewriter for 8 hours?  A regular expression."*
 <!-- JOKE:END -->
 
 </div>
