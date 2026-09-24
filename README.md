@@ -66,7 +66,7 @@
 
 ### Humor Receh Mas-Mas Palugada yang tiap hari di ruang Server :
 <!-- JOKE:START -->
-> *"What do you get if you lock a monkey in a room with a typewriter for 8 hours?  A regular expression."*
+> *"How can you tell an extroverted programmer?  He looks at YOUR shoes when he's talking."*
 <!-- JOKE:END -->
 
 </div>
