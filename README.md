@@ -66,7 +66,7 @@
 
 ### Humor Receh Mas-Mas Palugada yang tiap hari di ruang Server :
 <!-- JOKE:START -->
-> *"Why is Linux safe?  Hackers peak through Windows only."*
+> *"If Bill Gates had a dime for every time Windows crashed ... Oh wait, he does."*
 <!-- JOKE:END -->
 
 </div>
