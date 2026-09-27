@@ -66,7 +66,7 @@
 
 ### Humor Receh Mas-Mas Palugada yang tiap hari di ruang Server :
 <!-- JOKE:START -->
-> *"If Bill Gates had a dime for every time Windows crashed ... Oh wait, he does."*
+> *"Debugging is like being the detective in a crime movie where you're also the murderer at the same time."*
 <!-- JOKE:END -->
 
 </div>
