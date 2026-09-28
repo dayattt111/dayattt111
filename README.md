@@ -66,7 +66,7 @@
 
 ### Humor Receh Mas-Mas Palugada yang tiap hari di ruang Server :
 <!-- JOKE:START -->
-> *"Debugging is like being the detective in a crime movie where you're also the murderer at the same time."*
+> *"What is the most used language in programming?  Profanity."*
 <!-- JOKE:END -->
 
 </div>
