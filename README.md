@@ -66,7 +66,7 @@
 
 ### Humor Receh Mas-Mas Palugada yang tiap hari di ruang Server :
 <!-- JOKE:START -->
-> *"What is the most used language in programming?  Profanity."*
+> *".NET developers are picky when it comes to food.  They only like chicken NuGet."*
 <!-- JOKE:END -->
 
 </div>
