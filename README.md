@@ -66,7 +66,7 @@
 
 ### Humor Receh Mas-Mas Palugada yang tiap hari di ruang Server :
 <!-- JOKE:START -->
-> *".NET developers are picky when it comes to food.  They only like chicken NuGet."*
+> *"Why did the database administrator leave his wife?  She had one-to-many relationships."*
 <!-- JOKE:END -->
 
 </div>
