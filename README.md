@@ -66,7 +66,7 @@
 
 ### Humor Receh Mas-Mas Palugada yang tiap hari di ruang Server :
 <!-- JOKE:START -->
-> *"Why did the database administrator leave his wife?  She had one-to-many relationships."*
+> *"What is the most used language in programming?  Profanity."*
 <!-- JOKE:END -->
 
 </div>
