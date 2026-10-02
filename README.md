@@ -219,14 +219,6 @@ Driven by curiosity and continuous improvement, I treat every project as an oppo
 
 ---
 
-### Activity
-
-<p align="center">
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=dayattt111&theme=github-compact"/>
-
-</p>
-
 ### Free Resources
 
 Laragon
