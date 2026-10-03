@@ -66,7 +66,7 @@
 
 ### Humor Receh Mas-Mas Palugada yang tiap hari di ruang Server :
 <!-- JOKE:START -->
-> *"Today I learned that changing random stuff until your program works is "hacky" and a "bad coding practice" but if you do it fast enough it's "Machine Learning" and pays 4x your current salary."*
+> *"How did you make your friend rage?  I implemented a greek question mark in his JavaScript code."*
 <!-- JOKE:END -->
 
 </div>
