@@ -66,7 +66,7 @@
 
 ### Humor Receh Mas-Mas Palugada yang tiap hari di ruang Server :
 <!-- JOKE:START -->
-> *"How did you make your friend rage?  I implemented a greek question mark in his JavaScript code."*
+> *"Programming is like sex.  Make one mistake and you end up supporting it for the rest of your life."*
 <!-- JOKE:END -->
 
 </div>
