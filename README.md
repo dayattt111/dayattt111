@@ -66,7 +66,7 @@
 
 ### Humor Receh Mas-Mas Palugada yang tiap hari di ruang Server :
 <!-- JOKE:START -->
-> *"Why is 6 afraid of 7 in hexadecimal Canada?  Because 7 8 9 A?"*
+> *"Why was the JavaScript developer sad?  Because they didn't Node how to Express themself!"*
 <!-- JOKE:END -->
 
 </div>
