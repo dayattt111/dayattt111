@@ -66,7 +66,7 @@
 
 ### Humor Receh Mas-Mas Palugada yang tiap hari di ruang Server :
 <!-- JOKE:START -->
-> *"Java and C were telling jokes. It was C's turn, so he writes something on the wall, points to it and says "Do you get the reference?" But Java didn't."*
+> *"The glass is neither half-full nor half-empty, the glass is twice as big as it needs to be."*
 <!-- JOKE:END -->
 
 </div>
