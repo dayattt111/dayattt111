@@ -66,7 +66,7 @@
 
 ### Humor Receh Mas-Mas Palugada yang tiap hari di ruang Server :
 <!-- JOKE:START -->
-> *"Your mama's so FAT she can't save files bigger than 4GB."*
+> *"Debugging is like being the detective in a crime movie where you're also the murderer at the same time."*
 <!-- JOKE:END -->
 
 </div>
