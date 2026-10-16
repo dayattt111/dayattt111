@@ -66,7 +66,7 @@
 
 ### Humor Receh Mas-Mas Palugada yang tiap hari di ruang Server :
 <!-- JOKE:START -->
-> *"Debugging is like being the detective in a crime movie where you're also the murderer at the same time."*
+> *"How do you generate a random string?  Put a Windows user in front of Vim and tell them to exit."*
 <!-- JOKE:END -->
 
 </div>
