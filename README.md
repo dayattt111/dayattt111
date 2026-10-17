@@ -66,7 +66,7 @@
 
 ### Humor Receh Mas-Mas Palugada yang tiap hari di ruang Server :
 <!-- JOKE:START -->
-> *"How do you generate a random string?  Put a Windows user in front of Vim and tell them to exit."*
+> *"why do python programmers wear glasses?  Because they can't C."*
 <!-- JOKE:END -->
 
 </div>
