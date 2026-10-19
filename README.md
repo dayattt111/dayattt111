@@ -66,7 +66,7 @@
 
 ### Humor Receh Mas-Mas Palugada yang tiap hari di ruang Server :
 <!-- JOKE:START -->
-> *"Hey Girl, Roses are #ff0000, Violets are #0000ff, I use hex codes, But I'd use RGB for you."*
+> *"Why does no one like SQLrillex?  He keeps dropping the database."*
 <!-- JOKE:END -->
 
 </div>
