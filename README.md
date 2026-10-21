@@ -66,7 +66,7 @@
 
 ### Humor Receh Mas-Mas Palugada yang tiap hari di ruang Server :
 <!-- JOKE:START -->
-> *"Why is Linux safe?  Hackers peak through Windows only."*
+> *"Why did the programmer jump on the table?  Because debug was on his screen."*
 <!-- JOKE:END -->
 
 </div>
