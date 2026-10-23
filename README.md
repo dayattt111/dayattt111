@@ -66,7 +66,7 @@
 
 ### Humor Receh Mas-Mas Palugada yang tiap hari di ruang Server :
 <!-- JOKE:START -->
-> *"Why did the Python data scientist get arrested at customs?  She was caught trying to import pandas!"*
+> *"Algorithm: A word used by programmers when they don't want to explain how their code works."*
 <!-- JOKE:END -->
 
 </div>
