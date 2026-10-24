@@ -66,7 +66,7 @@
 
 ### Humor Receh Mas-Mas Palugada yang tiap hari di ruang Server :
 <!-- JOKE:START -->
-> *"Algorithm: A word used by programmers when they don't want to explain how their code works."*
+> *"Java is like Alzheimer's, it starts off slow, but eventually, your memory is gone."*
 <!-- JOKE:END -->
 
 </div>
