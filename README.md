@@ -66,7 +66,7 @@
 
 ### Humor Receh Mas-Mas Palugada yang tiap hari di ruang Server :
 <!-- JOKE:START -->
-> *"Java is like Alzheimer's, it starts off slow, but eventually, your memory is gone."*
+> *"A byte walks into a bar looking miserable. The bartender asks it: "What's wrong buddy?" "Parity error." it replies.  "Ah that makes sense, I thought you looked a bit off.""*
 <!-- JOKE:END -->
 
 </div>
