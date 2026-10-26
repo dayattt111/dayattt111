@@ -66,7 +66,7 @@
 
 ### Humor Receh Mas-Mas Palugada yang tiap hari di ruang Server :
 <!-- JOKE:START -->
-> *"A byte walks into a bar looking miserable. The bartender asks it: "What's wrong buddy?" "Parity error." it replies.  "Ah that makes sense, I thought you looked a bit off.""*
+> *"Why did the database administrator leave his wife?  She had one-to-many relationships."*
 <!-- JOKE:END -->
 
 </div>
