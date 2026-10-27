@@ -66,7 +66,7 @@
 
 ### Humor Receh Mas-Mas Palugada yang tiap hari di ruang Server :
 <!-- JOKE:START -->
-> *"Why did the database administrator leave his wife?  She had one-to-many relationships."*
+> *"What do you call a developer who doesn't comment code?  A developer."*
 <!-- JOKE:END -->
 
 </div>
