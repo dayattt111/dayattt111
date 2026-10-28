@@ -66,7 +66,7 @@
 
 ### Humor Receh Mas-Mas Palugada yang tiap hari di ruang Server :
 <!-- JOKE:START -->
-> *"What do you call a developer who doesn't comment code?  A developer."*
+> *"How did the programmer die in the shower?  He read the shampoo bottle instructions: Lather. Rinse. Repeat."*
 <!-- JOKE:END -->
 
 </div>
