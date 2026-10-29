@@ -66,7 +66,7 @@
 
 ### Humor Receh Mas-Mas Palugada yang tiap hari di ruang Server :
 <!-- JOKE:START -->
-> *"How did the programmer die in the shower?  He read the shampoo bottle instructions: Lather. Rinse. Repeat."*
+> *"why do python programmers wear glasses?  Because they can't C."*
 <!-- JOKE:END -->
 
 </div>
