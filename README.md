@@ -66,7 +66,7 @@
 
 ### Humor Receh Mas-Mas Palugada yang tiap hari di ruang Server :
 <!-- JOKE:START -->
-> *"why do python programmers wear glasses?  Because they can't C."*
+> *"Programming is like sex.  Make one mistake and you end up supporting it for the rest of your life."*
 <!-- JOKE:END -->
 
 </div>
