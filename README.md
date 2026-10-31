@@ -66,7 +66,7 @@
 
 ### Humor Receh Mas-Mas Palugada yang tiap hari di ruang Server :
 <!-- JOKE:START -->
-> *"Programming is like sex.  Make one mistake and you end up supporting it for the rest of your life."*
+> *"Have a great weekend! I hope your code behaves the same on Monday as it did on Friday."*
 <!-- JOKE:END -->
 
 </div>
