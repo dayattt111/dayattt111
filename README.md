@@ -66,7 +66,7 @@
 
 ### Humor Receh Mas-Mas Palugada yang tiap hari di ruang Server :
 <!-- JOKE:START -->
-> *"Why do they call it hyper terminal?  Too much Java."*
+> *"Why do programmers wear glasses?  Because they need to C#"*
 <!-- JOKE:END -->
 
 </div>
