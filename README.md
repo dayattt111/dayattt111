@@ -66,7 +66,7 @@
 
 ### Humor Receh Mas-Mas Palugada yang tiap hari di ruang Server :
 <!-- JOKE:START -->
-> *"What do you get if you lock a monkey in a room with a typewriter for 8 hours?  A regular expression."*
+> *"The six stages of debugging: 1. That can't happen. 2. That doesn't happen on my machine. 3. That shouldn't happen. 4. Why does that happen? 5. Oh, I see. 6. How did that ever work?"*
 <!-- JOKE:END -->
 
 </div>
