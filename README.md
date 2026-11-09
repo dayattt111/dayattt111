@@ -66,7 +66,7 @@
 
 ### Humor Receh Mas-Mas Palugada yang tiap hari di ruang Server :
 <!-- JOKE:START -->
-> *"Why does no one like SQLrillex?  He keeps dropping the database."*
+> *"What is the best prefix for global variables?  //"*
 <!-- JOKE:END -->
 
 </div>
