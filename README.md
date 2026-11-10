@@ -66,7 +66,7 @@
 
 ### Humor Receh Mas-Mas Palugada yang tiap hari di ruang Server :
 <!-- JOKE:START -->
-> *"What is the best prefix for global variables?  //"*
+> *"Hey, wanna hear a joke?  Parsing HTML with regex."*
 <!-- JOKE:END -->
 
 </div>
