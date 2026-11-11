@@ -66,7 +66,7 @@
 
 ### Humor Receh Mas-Mas Palugada yang tiap hari di ruang Server :
 <!-- JOKE:START -->
-> *"Hey, wanna hear a joke?  Parsing HTML with regex."*
+> *"Java is like Alzheimer's, it starts off slow, but eventually, your memory is gone."*
 <!-- JOKE:END -->
 
 </div>
