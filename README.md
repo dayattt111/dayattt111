@@ -66,7 +66,7 @@
 
 ### Humor Receh Mas-Mas Palugada yang tiap hari di ruang Server :
 <!-- JOKE:START -->
-> *"Why do programmers prefer using the dark mode?  Because light attracts bugs."*
+> *"Debugging: Removing the needles from the haystack."*
 <!-- JOKE:END -->
 
 </div>
