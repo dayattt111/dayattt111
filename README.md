@@ -66,7 +66,7 @@
 
 ### Humor Receh Mas-Mas Palugada yang tiap hari di ruang Server :
 <!-- JOKE:START -->
-> *"Debugging: Removing the needles from the haystack."*
+> *"The generation of random numbers is too important to be left to chance."*
 <!-- JOKE:END -->
 
 </div>
