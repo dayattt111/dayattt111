@@ -66,7 +66,7 @@
 
 ### Humor Receh Mas-Mas Palugada yang tiap hari di ruang Server :
 <!-- JOKE:START -->
-> *"The generation of random numbers is too important to be left to chance."*
+> *"So what's a set of predefined steps the government might take to preserve the environment?  An Al-Gore-ithm."*
 <!-- JOKE:END -->
 
 </div>
