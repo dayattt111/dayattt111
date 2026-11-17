@@ -66,7 +66,7 @@
 
 ### Humor Receh Mas-Mas Palugada yang tiap hari di ruang Server :
 <!-- JOKE:START -->
-> *"So what's a set of predefined steps the government might take to preserve the environment?  An Al-Gore-ithm."*
+> *"I'd tell you a joke about NAT but I would have to translate."*
 <!-- JOKE:END -->
 
 </div>
