@@ -66,7 +66,7 @@
 
 ### Humor Receh Mas-Mas Palugada yang tiap hari di ruang Server :
 <!-- JOKE:START -->
-> *"I'd tell you a joke about NAT but I would have to translate."*
+> *"Why did the Python data scientist get arrested at customs?  She was caught trying to import pandas!"*
 <!-- JOKE:END -->
 
 </div>
