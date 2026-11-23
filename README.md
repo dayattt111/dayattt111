@@ -66,7 +66,7 @@
 
 ### Humor Receh Mas-Mas Palugada yang tiap hari di ruang Server :
 <!-- JOKE:START -->
-> *"Debugging: Removing the needles from the haystack."*
+> *"Your momma is so fat, you need to switch to NTFS to store a picture of her."*
 <!-- JOKE:END -->
 
 </div>
