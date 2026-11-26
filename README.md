@@ -66,7 +66,7 @@
 
 ### Humor Receh Mas-Mas Palugada yang tiap hari di ruang Server :
 <!-- JOKE:START -->
-> *"What do you call a group of 8 Hobbits?  A Hobbyte."*
+> *"How many programmers does it take to screw in a light bulb?  None. It's a hardware problem."*
 <!-- JOKE:END -->
 
 </div>
