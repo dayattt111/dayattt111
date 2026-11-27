@@ -66,7 +66,7 @@
 
 ### Humor Receh Mas-Mas Palugada yang tiap hari di ruang Server :
 <!-- JOKE:START -->
-> *"How many programmers does it take to screw in a light bulb?  None. It's a hardware problem."*
+> *"Why do programmers wear glasses?  Because they need to C#"*
 <!-- JOKE:END -->
 
 </div>
