@@ -66,7 +66,7 @@
 
 ### Humor Receh Mas-Mas Palugada yang tiap hari di ruang Server :
 <!-- JOKE:START -->
-> *"Why do programmers wear glasses?  Because they need to C#"*
+> *"Why did the JavaScript heap close shop?  It ran out of memory."*
 <!-- JOKE:END -->
 
 </div>
